@@ -33,5 +33,12 @@
   },
   "extra" : {
     "installer-name" : "OAuth"
-  }
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/thomseddon/oauth2-php"
+        }
+    ]
+
 }
